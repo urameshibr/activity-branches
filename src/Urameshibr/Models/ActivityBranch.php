@@ -1,6 +1,6 @@
 <?php
 
-namespace Urameshibr\Core;
+namespace Urameshibr\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
