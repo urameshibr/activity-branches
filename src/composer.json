@@ -1,0 +1,27 @@
+{
+  "name": "urameshibr/activity-branches",
+  "description": "Lista de Ramos de Atividades Empresariais",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Rodrigues",
+      "email": "lucas.opensource@gmail.com",
+      "role": "Criador"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Urameshibr\\": "src/Urameshibr/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "minimum-stability": "dev"
+}
